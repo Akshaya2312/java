@@ -1,0 +1,21 @@
+What is JVM ?
+
+ - Its actually makes a program run.Compiler give JVM a file.\
+ - It run the formated compile code
+
+ What is Compiler ?
+  -  Java not interpreted language where at runtime the virtual machine
+     had to translate straight from a text editor source code.
+  - It cant allow variables to hold data of the wrong type.
+  - There  could be some datatypes exceptions that can emerge at run time.
+  - Checking semicolons
+
+Notes:
+In Java everthing goes in a class.You will type your source code file (with a .java extension ), then compile it into a new class file (with a .class extension).
+When you run your program, you are running a class.
+
+Running a program means telling the JVM to "Load the MyFirstApp class" then start executing its main method. Keep running till all the code in main is finished.
+
+
+
+
